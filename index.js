@@ -1,11 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import RouterDOM from './Router';
-
-ReactDOM.render(
-  <React.StrictMode>
-    <RouterDOM />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+import React from 'react'
+import {Link} from 'react-router-dom'
+export default function HomePage () {
+    return (
+	<div>
+		<Link to='/Profile'><div>Profile</div></Link>
+		<Link to='/Shop'><div>Shop</div></Link>
+		<Link to='/Leaderboard'><div>Leaderboard</div></Link>
+		<Link to='/Main'><div>Main</div></Link>
+	</div>
+	)
+}

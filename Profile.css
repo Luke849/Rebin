@@ -1,0 +1,254 @@
+
+.Profile_Profile {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Profile_Profile .BgCircle {
+	position: absolute;
+	left: -559.9806701660157px;
+	top: 204.96px;
+	width: 2422.9206701660155px;
+	height: 3081.7200000000003px;
+}
+.Profile_Profile .BgCircle .Ellipse3 {
+	position: absolute;
+	left: 1328.5797766113283px;
+	top: 0px;
+	width: 1032.1200000000001px;
+	height: 868.1768408203126px;
+}
+.Profile_Profile .BgCircle .Ellipse1 {
+	position: absolute;
+	left: 1383.4806701660157px;
+	top: 2207.385897216797px;
+	width: 1039.44px;
+	height: 874.3341027832032px;
+	background: rgba(30,121,78,1.00);
+	border-radius: 50%;
+}
+.Profile_Profile .BgCircle .Ellipse2 {
+	position: absolute;
+	left: 0px;
+	top: 1052.8954815673828px;
+	width: 1222.44px;
+	height: 1028.2660986328126px;
+	background: rgba(104,219,50,1.00);
+	border-radius: 50%;
+}
+.Profile_Profile .Nav {
+	position: absolute;
+	left: 73.2px;
+	top: 2803.56px;
+	width: 1291.98px;
+	height: 237.9px;
+}
+.Profile_Profile .Nav .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1291.98px;
+	height: 237.9px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 333.06px;
+}
+.Profile_Profile .Nav .Image {
+	position: absolute;
+	left: 109.80000000000001px;
+	top: 47.58px;
+	width: 139.08px;
+	height: 142.74px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Nav .Image_1 {
+	position: absolute;
+	left: 417.24px;
+	top: 95.16px;
+	width: 161.04000000000002px;
+	height: 95.16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Nav .Image_2 {
+	position: absolute;
+	left: 732px;
+	top: 62.22px;
+	width: 164.70000000000002px;
+	height: 128.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Nav .Image_3 {
+	position: absolute;
+	left: 1061.4px;
+	top: 43.92px;
+	width: 120.78px;
+	height: 146.4px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Footer {
+	position: absolute;
+	left: 0px;
+	top: 3059.76px;
+	width: 1438.38px;
+	height: 142.74px;
+}
+.Profile_Profile .Footer .copyright2022byRebin {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1438.38px;
+	height: 142.74px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 36.6px;
+	font-weight: 100;
+	line-height: 46.1160013961792px;
+}
+.Profile_Profile .Profile_1 {
+	position: absolute;
+	left: 0px;
+	top: 391.62px;
+	width: 1438.38px;
+	height: 1723.8600000000001px;
+}
+.Profile_Profile .Profile_1 .changepassword {
+	position: absolute;
+	left: 0px;
+	top: 1398.1200000000001px;
+	width: 1438.38px;
+	height: 142.74px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 73.2px;
+	font-weight: 200;
+	line-height: 92.2320027923584px;
+}
+.Profile_Profile .Profile_1 .changename {
+	position: absolute;
+	left: 0px;
+	top: 1215.1200000000001px;
+	width: 1438.38px;
+	height: 142.74px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 73.2px;
+	font-weight: 200;
+	line-height: 92.2320027923584px;
+}
+.Profile_Profile .Profile_1 .addDesciption {
+	position: absolute;
+	left: 0px;
+	top: 1032.1200000000001px;
+	width: 1438.38px;
+	height: 142.74px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 73.2px;
+	font-weight: 200;
+	line-height: 92.2320027923584px;
+}
+.Profile_Profile .Profile_1 .GetPro {
+	position: absolute;
+	left: 0px;
+	top: 1581.1200000000001px;
+	width: 1438.38px;
+	height: 142.74px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 73.2px;
+	font-weight: 300;
+	line-height: 92.2320027923584px;
+}
+.Profile_Profile .Profile_1 .name {
+	position: absolute;
+	left: 0px;
+	top: 797.88px;
+	width: 1438.38px;
+	height: 204.96px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 128.1px;
+	font-weight: 200;
+	line-height: 161.4059944152832px;
+}
+.Profile_Profile .Profile_1 .Ellipse4 {
+	position: absolute;
+	left: 329.40000000000003px;
+	top: 0px;
+	width: 775.9200000000001px;
+	height: 775.9200000000001px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Profile_Profile .Profile_1 .Ellipse5 {
+	position: absolute;
+	left: 329.40000000000003px;
+	top: 0px;
+	width: 775.9200000000001px;
+	height: 775.9200000000001px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Profile_Profile .Profile_1 .Image_4 {
+	position: absolute;
+	left: 409.92px;
+	top: 128.1px;
+	width: 611.22px;
+	height: 724.6800000000001px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Header {
+	position: absolute;
+	left: 91.5px;
+	top: 54.900000000000006px;
+	width: 1273.68px;
+	height: 115.36315979003906px;
+}
+.Profile_Profile .Header .logo1 {
+	position: absolute;
+	left: 0px;
+	top: 10.98px;
+	width: 84.18px;
+	height: 104.38315979003907px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Profile_Profile .Header .Logout {
+	position: absolute;
+	left: 1046.76px;
+	top: 0px;
+	width: 226.92000000000002px;
+	height: 76.86px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 62.22px;
+	font-weight: 300;
+	line-height: 78.39720027923585px;
+}

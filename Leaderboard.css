@@ -1,0 +1,753 @@
+
+.Leaderboard_Leaderboard {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Leaderboard_Leaderboard .BgCircle {
+	position: absolute;
+	left: -494.1px;
+	top: 230.58px;
+	width: 2422.92px;
+	height: 3081.7200000000003px;
+}
+.Leaderboard_Leaderboard .BgCircle .Ellipse3 {
+	position: absolute;
+	left: 1328.5793298339845px;
+	top: 0px;
+	width: 1032.1200000000001px;
+	height: 868.1768408203126px;
+}
+.Leaderboard_Leaderboard .BgCircle .Ellipse1 {
+	position: absolute;
+	left: 1383.48px;
+	top: 2207.385897216797px;
+	width: 1039.44px;
+	height: 874.3341027832032px;
+	background: rgba(30,121,78,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .BgCircle .Ellipse2 {
+	position: absolute;
+	left: -0.000670166015625px;
+	top: 1052.8954815673828px;
+	width: 1222.44px;
+	height: 1028.2660986328126px;
+	background: rgba(104,219,50,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Logo {
+	position: absolute;
+	left: 91.5px;
+	top: 65.88px;
+	width: 84.18px;
+	height: 106.14px;
+}
+.Leaderboard_Leaderboard .Logo .logo1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.18px;
+	height: 106.14px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Leaderboard_Leaderboard .Balance {
+	position: absolute;
+	left: 0px;
+	top: 237.9px;
+	width: 1438.38px;
+	height: 680.76px;
+}
+.Leaderboard_Leaderboard .Balance ._256 {
+	position: absolute;
+	left: 497.76px;
+	top: 183px;
+	width: 442.86px;
+	height: 347.7px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 274.5px;
+	font-weight: 200;
+	line-height: 345.87px;
+}
+.Leaderboard_Leaderboard .Balance .currentbalance {
+	position: absolute;
+	left: 183%;
+	top: 43.29032258064516%;
+	transform: translate(-50%, -50%);
+	width: 1438.38px;
+	height: 161.04000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 128.1px;
+	font-weight: 200;
+	line-height: 161.4059944152832px;
+}
+.Leaderboard_Leaderboard .Balance .points {
+	position: absolute;
+	left: 181.6030534351145%;
+	top: 328.61290322580646%;
+	transform: translate(-50%, -50%);
+	width: 322.08000000000004px;
+	height: 139.08px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 109.80000000000001px;
+	font-weight: 300;
+	line-height: 138.3479972076416px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 {
+	position: absolute;
+	left: 172.02px;
+	top: 1090.68px;
+	width: 1090.68px;
+	height: 1936.14px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1072.38px;
+	height: 1936.14px;
+	background: rgba(172,171,171,0.80);
+	border-radius: 109.80000000000001px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 1654.3200000000002px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 .Ellipse4 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 .name {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 ._50P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 .Ellipse5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors9 ._9 {
+	position: absolute;
+	left: 21.041811846689896%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 54.900000000000006px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 1474.98px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 .Ellipse4_1 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 .Ellipse5_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 .name_1 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 ._83P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors8 ._8 {
+	position: absolute;
+	left: 21.679442508710803%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 51.24px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 1299.3px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 .Ellipse4_2 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 .Ellipse5_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 .name_2 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 ._96P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors7 ._7 {
+	position: absolute;
+	left: 21.679442508710803%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 51.24px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 {
+	position: absolute;
+	left: 0px;
+	top: 1101.66px;
+	width: 1090.68px;
+	height: 161.04000000000002px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1072.38px;
+	height: 161.04000000000002px;
+	background: rgba(81,208,178,1.00);
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 .Ellipse4_3 {
+	position: absolute;
+	left: 193.98000000000002px;
+	top: 18.3px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 .Ellipse5_3 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 18.3px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 .name_3 {
+	position: absolute;
+	left: 347.7px;
+	top: 32.94px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 ._100P {
+	position: absolute;
+	left: 768.6px;
+	top: 36.6px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors6 ._6 {
+	position: absolute;
+	left: 33.7751677852349%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 54.900000000000006px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 944.2800000000001px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 .Ellipse4_4 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 .Ellipse5_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 .name_4 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 ._111P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors5 ._5 {
+	position: absolute;
+	left: 21.679442508710803%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 51.24px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 764.94px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 .Ellipse4_5 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 .Ellipse5_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(103,103,103,0.80);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 .name_5 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 ._123P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors4 ._4 {
+	position: absolute;
+	left: 21.041811846689896%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 54.900000000000006px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 585.6px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 .Ellipse4_6 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 .Ellipse5_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(30,121,78,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 .name_6 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 ._278P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors3 ._3 {
+	position: absolute;
+	left: 21.679442508710803%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 51.24px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 409.92px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 .Ellipse4_7 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 .Ellipse5_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(128,255,0,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 .name_7 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 ._423P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors2 ._2 {
+	position: absolute;
+	left: 21.679442508710803%;
+	top: 172.23529411764704%;
+	transform: translate(-50%, -50%);
+	width: 51.24px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 234.24px;
+	width: 1050.42px;
+	height: 124.44px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 .Ellipse4_8 {
+	position: absolute;
+	left: 153.72px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 .Ellipse5_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 124.44px;
+	height: 124.44px;
+	background: rgba(88,255,175,1.00);
+	border-radius: 50%;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 .name_8 {
+	position: absolute;
+	left: 307.44px;
+	top: 14.64px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 ._502P {
+	position: absolute;
+	left: 728.34px;
+	top: 18.3px;
+	width: 322.08000000000004px;
+	height: 65.88px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 54.900000000000006px;
+	font-weight: 200;
+	line-height: 69.1739986038208px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .competetors1 ._1 {
+	position: absolute;
+	left: 22.31707317073171%;
+	top: 183%;
+	transform: translate(-50%, -50%);
+	width: 32.94px;
+	height: 117.12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 91.5px;
+	font-weight: 200;
+	line-height: 115.29px;
+}
+.Leaderboard_Leaderboard .Leaderboard_1 .monthlycompetition {
+	position: absolute;
+	left: 40.260000000000005px;
+	top: 25.62px;
+	width: 1010.1600000000001px;
+	height: 139.08px;
+	color: rgba(0,0,0,1.00);
+	font-family: Outfit;
+	font-size: 109.80000000000001px;
+	font-weight: 500;
+	line-height: 138.3479972076416px;
+}
+.Leaderboard_Leaderboard .Nav {
+	position: absolute;
+	left: 73.2px;
+	top: 2803.56px;
+	width: 1291.98px;
+	height: 237.9px;
+}
+.Leaderboard_Leaderboard .Nav .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1291.98px;
+	height: 237.9px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 333.06px;
+}
+.Leaderboard_Leaderboard .Nav .Image {
+	position: absolute;
+	left: 109.80000000000001px;
+	top: 47.58px;
+	width: 139.08px;
+	height: 142.74px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Leaderboard_Leaderboard .Nav .Image_1 {
+	position: absolute;
+	left: 1061.4px;
+	top: 43.92px;
+	width: 120.78px;
+	height: 146.4px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Leaderboard_Leaderboard .Nav .Image_2 {
+	position: absolute;
+	left: 732px;
+	top: 62.22px;
+	width: 164.70000000000002px;
+	height: 128.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Leaderboard_Leaderboard .Nav .Image_3 {
+	position: absolute;
+	left: 417.24px;
+	top: 95.16px;
+	width: 161.04000000000002px;
+	height: 95.16px;
+	object-fit: cover;
+	overflow: hidden;
+}
